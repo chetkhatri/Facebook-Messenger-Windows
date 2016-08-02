@@ -1,0 +1,107 @@
+﻿    <phone:PhoneApplicationPage
+    x:Class="FBMsgnr.Friends.FriendsList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    	<phone:PhoneApplicationPage.ApplicationBar>
+    		<shell:ApplicationBar>
+    			<shell:ApplicationBarIconButton x:Name="btnStatus" IconUri="/Assets/AppBar/edit.png" Text="My Status" Click="btnStatus_Click"/>
+    		</shell:ApplicationBar>
+    	</phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="white">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <phone:Pivot SelectionChanged="Pivot_SelectionChanged">
+            <!--Pivot item one-->
+            <phone:PivotItem>
+               <!--ContentPanel - place additional content here-->
+                <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+                    <StackPanel Grid.Row="0" Margin="-12,-20,-12,0">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Name="img_UserPicture" Source="" Height="50" Width="50" Stretch="UniformToFill"  ></Image>
+                            <StackPanel Orientation="Vertical" Margin="12,0,0,0">
+                                <TextBlock Name="txt_UserName" Text="" FontWeight="Bold" FontSize="28" Foreground="Black">
+                                </TextBlock>
+                                <TextBlock Name="txt_UserPoints" Text="available" Foreground="#3b5998" FontWeight="SemiBold">
+
+                                </TextBlock>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                    <TextBlock Name="txt_OnlineFriends"  Text="Loading Friends..." TextWrapping="NoWrap" Margin="0,50,0,0" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="#FFA5A5A5" FontWeight="SemiBold"/>
+                    <ListBox  x:Name="ListBoxFriends" Margin="12,114,12,79" ItemsSource="{Binding}"  Loaded="ListBoxFriends_Loaded" SelectionChanged="ListBoxFriends_SelectionChanged" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel    Orientation="Horizontal" VerticalAlignment="Top"  Margin="0,0,0,24" >
+                                    <StackPanel  Margin="0,0,0,0" >
+                                        <TextBlock  Name="FriendName" Text="{Binding Name}"  TextWrapping="NoWrap" Margin="12,0,0,0"    FontFamily="Segoe WP SemiLight" FontSize="35" Foreground="Black" />
+                                        <TextBlock Text="{Binding Status}" TextWrapping="NoWrap" Margin="12,0,0,0" Style="{StaticResource PhoneTextSubtleStyle}" Foreground="#3b5998" FontWeight="SemiBold" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem>
+                <Grid x:Name="ContentPanel1" Grid.Row="1" Margin="12,0,12,0">
+                    
+                    <TextBlock Name="txt_OnlineFriends1"  Text="Loading Friends..." TextWrapping="NoWrap" Margin="0,-15,0,0" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="#FFA5A5A5" FontWeight="SemiBold"/>
+                    <ListBox  x:Name="ListBoxFriends1" Margin="12,60,12,79" ItemsSource="{Binding}"  Loaded="ListBoxFriends_Loaded" SelectionChanged="ListBoxFriends_SelectionChanged" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel    Orientation="Horizontal" VerticalAlignment="Top"  Margin="0,0,0,24" >
+                                    <StackPanel  Margin="0,0,0,0" >
+                                        <TextBlock  Name="FriendName" Text="{Binding Name}"  TextWrapping="NoWrap" Margin="12,0,0,0"    FontFamily="Segoe WP SemiLight" FontSize="35" Foreground="Black" />
+                                        <TextBlock Text="{Binding Status}" TextWrapping="NoWrap" Margin="12,0,0,0" Style="{StaticResource PhoneTextSubtleStyle}" Foreground="#3b5998" FontWeight="SemiBold" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </Grid>
+            </phone:PivotItem>
+        </phone:Pivot>
+        <!--TitlePanel contains the name of the application and page title-->
+        
+    </Grid>
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn" />
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn" />
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut" />
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut" />
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+</phone:PhoneApplicationPage>

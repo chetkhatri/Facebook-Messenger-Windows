@@ -1,0 +1,210 @@
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr.dll
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr.pdb
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\AppManifest.xaml
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr_Debug_AnyCPU.xap
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\App.g.cs
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\MainPage.g.cs
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.g.resources
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.Resources.AppResources.resources
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.csproj.GenerateResource.Cache
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.dll
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.pdb
+c:\users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\XapCacheFile.xml
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\XFacebook.Chat.WindowsPhone.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\XFacebook.Constants.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\XFacebook.Protocol.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\XFacebook.Server.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.csprojResolveAssemblyReference.cache
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.xml
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\Fb\FB_Login.g.cs
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\Friends\FriendsList.g.cs
+C:\Users\khatri\documents\visual studio 2012\Projects\FBMsgnr\FBMsgnr\obj\Debug\Chatting\ChattingPage.g.cs
+C:\Users\khatri\Documents\Visual Studio 2012\Projects\FBMsgnr\FBMsgnr\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\ApplicationIcon.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\AppManifest.xaml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Properties\WMAppManifest.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\FBMsgnr_Debug_AnyCPU.xap
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\System.Windows.Interactivity.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Core.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Telerik.Windows.Data.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.csprojResolveAssemblyReference.cache
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\App.g.cs
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\Chatting\ChattingPage.g.cs
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\Fb\FB_Login.g.cs
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\Friends\FriendsList.g.cs
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\MainPage.g.cs
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.g.resources
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.Resources.AppResources.resources
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.csproj.GenerateResource.Cache
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.dll
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\FBMsgnr.pdb
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\XapCacheFile.xml
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\Bin\Debug\Assets\AppBar\edit.png
+D:\FacebookMsgner\Internal\FBMsgnr\FBMsgnr\obj\Debug\Friends\fbStatus.g.cs
